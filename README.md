@@ -1,1 +1,2 @@
-# CS106.K21.KHTN_AI
+# Artificial Intelligence
+# UIT
